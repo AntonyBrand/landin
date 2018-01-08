@@ -1,0 +1,138 @@
+ 
+
+ I think some of you might not realize what's a fantastically privileged audience you are because I have learnt so much from three preceding things. 
+
+00:16
+I'm one of those people that has never ever really understood anything unless I think I invented it myself and it's an extremely limiting view to do science
+
+00:25 
+but I think today I've actually understood a number of things that have gone on since nineteen seventy where more or less I ceased to be interested in the theory of computing and I've understood things I always assumed were going to be much too complicated for me to ever understand or begin to understand so I've been quite,, I'm now energised into trying to understand a few things 
+
+00:51 
+When I was very kindly invited to come here and it was by a very old  colleague of mine so I thought I was getting here, so to speak, out of, what's it called, cronyism namely George Davis, whom I first met over some old computer which I think is downstairs now complete with its telephone dial, is that right?
+
+01:23 
+As I was wondering what to say here I was realizing that people of mixed biography and technical history except that my technical history stops about nineteen seventy.
+
+
+So back in 1954 or sometime or other, having been thoroughly disparaging concerning computers because I'd watched something called an EDSAC up stumbling through a Runge-Kutta and decided this was not for me, but then I myself stumbled into a job trying 
+
+Hollerith accounting machines do computing and indeed I spent a very engaging three months making Hollerith computing machines do a statistical analysis of the thermal conductivity of North Sea herrings some government office.
+
+02:21 
+
+This made me decide that maybe computing might be interesting after all because of a fortunate link that led me to George David here. I ended up at the National Physical Laboratory where he was with this early machine that's downstairs in pieces apparently, sorry depleted, where because I have a friend who didn't believe in the laws of probability and believed that parapsychology was an ordinary thing rather than a pathological thing I immediately set about testing whether the XXXX had parapsychological powers and I didn't, it didn't.
+
+
+
+ 03:00 
+<audience> So far as you know.
+
+
+
+03:04
+It does produce the XXX Binomial distributions on on those cards with little corners cut off which made lovely wallpaper
+
+03:13 
+Anyway not very long after then, I came, although he really didn't realize it, under the influence of John McCarthy, and indeed, I think all that work that I was doing that time was so much merely, was me thinking what I was doing to tidy up a few loose ends of McCarthy and probably not even realizing the loose ends of his that I was tidying up, what he considered to be the less important part of his contribution to the subject. I'm not sure about that but of course this lead to… 
+
+03:47 
+I think LISP was around in 1958 at a NPL conference and I was extremely excited to learn about garbage collection because I've been trying to think at the time how to do… 
+
+03:59 
+I knew about lambda calculus because when I was an undergraduate there was this… I was rather foolishly put into a fast lane  of acquiring a degree in two years rather than three and consequently my first year was being taught analysis, this was in a mathematics degree, by an enthusiast for, and I think he'd been a pupil of Alonzo Church a very formidable man called Norman Steen who taught me analysis and during the time that this was going on the parallel stream got bigger and bigger and lambda version of it got smaller in terms of audiences and at some point or other I and a friend of mine, we were room-mating together, realised that we were the only two people who were going to follow this particular stream and we better make sure that at least one of us was present at each lecture
+
+04:54
+I know that there was one occasion that both of us had missed them and we thought, I think probably we were correct in supposing, because of the inflexible social maner of Norman Steen that he delivered his lecture anyway.
+
+05:13 
+and we didn't understand the notes well enough to understand whether there was a gap
+
+
+GARBAGE FROM HERE ON!
+05:23 
+Speaker 0: I don't want to because we realize because both of them with me but both of us miss them and we thought well I think probably we we were corrected supposing because of the inflexible social memorable and steam the teachers let check anyway.
+
+Speaker 0: But we concluded we didn't understand that there will have with the cat.
+
+Speaker 0: This summer the.
+
+Speaker 0: It comes to sexual came from the.
+
+Speaker 0: And I was determined to waste money to waste of the time with the music company of how I tried to make the holidays or sweet success so do be to reduction of it was very very difficult with these today lots of these drums and things of that if.
+
+Speaker 0: So you're not for drugs.
+
+Speaker 0: Because of certainly won't this them American deadline comes at a coffee and his beginnings of a list which were amazingly modest and they're awesome he had a little lamb to but I don't think he knew what he was he was he was in two of the time it was wrong but it was sort of a full travelogue language about this vocalists of with a with a little longer home of course in the open in wanton soup from that they're actually became the subject of language which it was possible for somebody to.
+
+Speaker 0: Design of abstract machine for groom's family settles abstract list of mystery.
+
+Speaker 0: Which was really an inspiration to me because that was exactly the sort of extremely messy thing that I realized a way of talking to you now but on the top of the tunnel walls of the starting up because the the ACC version of tell you got this little machine I'm trying to put some kind of crucially put some symmetry between treatments of functions in treatment of all the books which were at the time totally of the think from the very very it was very good on the stove that the the function of the function could be addicts are off to the second time in the service of the young.
+
+Speaker 0: So that's then how about a minute left London stocks or rivers time but this time I had been assisting number for straight Kate in developing some of these programs.
+
+Speaker 0: But the thing this message that some.
+
+Speaker 0: On our own.
+
+Speaker 0: Are they functioning of those are joined him as his soul Chloe of off of others computer consultant of and had a wonderful years working in a fact studios summer of Kensington Church Street of whether the three Grammy comes in two cats.
+
+Speaker 0: One of the state of Iran during a storm articles the failure to produce a composite of a forum someone of his one of his industrial look.
+
+Speaker 0: The cons becomes push to simulating a fifty eight a clipping of a of a new fund to computer with a a mercury will to code compatible compiler of the city.
+
+Speaker 0: Yeah I'm so so I decided in which the this will drop the call to the schools conceptual level I knew about what happened up around this then leads to we'll have stuff that came out in the Vienna conference which of those attending will mention to kind of medicine will tell your members what they were up to twelve pay this.
+
+Speaker 0: Getting rid of aras able from time since with a subsidy of the political issues that will look at that book which is beautifully documented armed with what a closer to the council of state little of the base of a company discussions Lindelof reach took as I'm sure will be this thing problem arms they are a one in one of the accounts of both our didn't run to the end yes absolutely whoever was looking to get out so quickly let's decide which is the best method of doing the semantics of programming languages let's have a foot.
+
+Speaker 0: Now I don't know which way to turn the whole focus of the dog on the set of.
+
+Speaker 0: Since the.
+
+Speaker 0: So far this time I was on.
+
+Speaker 0: The only way to continue to apply to you because you have a great close with the finest Percival spokesman Michael Phillips because the structure of the because he had spent two years a.
+
+Speaker 0: I don't.
+
+Speaker 0: I'm confused by the time we're done with my mom because farce nineteen sixty three fold up front market and he's still here and I want to see from the the coverage of all the men who have a code to rule that phone and have a coke soda codes information aroma from failed and they were trying this trying to settle for the teaching of public buildings which over time have a final project mac political apathy.
+
+Speaker 0: Well.
+
+Speaker 0: The compound father who is an extremely common energetic of of monolithic talk exclusively in rapidly about everything before we talk about how well some ex absolutely indignant that he would have required to teach a course in full for what he's about golf pieces cool final about anything they started telling me to leave the phone to tell me what the stuff of old couple to go because most.
+
+Speaker 0: And I was by that time.
+
+Speaker 0: Using the stuff about some kind of local motion really applicable pouring tall ski touch the magic stuff about the relationship between names and meanings program so we just around this then leads to me spending a year of that off which came this Powell thing that we mentioned follow the.
+
+Speaker 0: The.
+
+Speaker 0: I'm sure enough so I'm always a list of during that time I can remember.
+
+Speaker 0: The one who and what she was erected department of electrical engineering sensually wells was in great trouble of conflicting views about how to introduce computing into a graduate and then on the graduate schools around the of various people hooked on the company he's about to prince remember that round two of the come from the.
+
+Speaker 0: Related stuff up the.
+
+Speaker 0: Number of video simulant some.
+
+Speaker 0: Okay so.
+
+Speaker 0: I missed it was extremely post office who is up from helpful stuff rising from the very reasonable grounds that he'd seen all these people giving grounds for doing research and what we called a long time which is what they were actually.
+
+Speaker 0: Little studying understood in the budget a little time everyday to sense and he knew that was off the big con going on about money being the game by sticking to the computer or something because the key issue of that those of us who were talking about article because of the weather similarly suspect so he imposes a marker of his school day to sculpt come along to feed me on the phone up and spoke the service would be sixty six of us well that's because anytime I had moved from an industrial.
+
+Speaker 0: OnStar that's the criminals got the looks I'm Lou from an industry group in America to the universe to come in America during the three years little political speeches so small cable around day of my lonely all the crucial confluence because I said look you've got to be able to have to the debaters stakes the equivalence between two between up an inferior chunk of a program and another child who is well in the context of the lives of these difficult it is not a problem found out she said he don't you see that cultural programs for students who runs his so we have to talk about that stuff he was staggering to call the person who.
+
+Speaker 0: The following up what tomorrow for a millisecond was able to get a better opportunity to get a practice roles for programming alongside his already up and developing his so there's some great critical in the subject of those very person knows what was going on during the time leading to the safest thing was that just looks to be a bunch of already subscript though I can remember I once knew I was in New York of this famous tool combined whose members wanted to the his solutions beginning for full effect.
+
+ 
+
+ 
+
+Quick tips:
+
+ 
+
+- Ctrl+I adds italic formatting and Ctrl+B adds bold formatting.
+
+- Press ESC to play/pause, and Ctrl+J to insert the current timestamp.
