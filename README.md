@@ -1,6 +1,6 @@
 # landin
 Collaborative transcription and translations of a 2001 talk by Professor Peter J Landin
-https://www.youtube.com/watch?v=VMxLRJv6rpc&t=61s
+https://www.youtube.com/watch?v=VMxLRJv6rpc
 
 I used https://speech-to-text-demo.ng.bluemix.net/ to transcribe the audio but clearly with limited success. It needs humans to transcribe.
 
